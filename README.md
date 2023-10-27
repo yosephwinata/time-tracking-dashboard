@@ -4,7 +4,7 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://time-tracking-dashboard-rosy-xi.vercel.app/](https://time-tracking-dashboard-rosy-xi.vercel.app/)
 
 ### Built with
 
