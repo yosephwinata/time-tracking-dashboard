@@ -23,7 +23,7 @@ const ActivityCard = ({ timeFrame, activity }) => {
       className={`relative h-40 w-full overflow-hidden rounded-[15px] bg-${cardColor} xl:h-full`}
     >
       <img
-        src={`/src/assets/${iconFileName}`}
+        src={`/assets/${iconFileName}`}
         alt="Activity Icon"
         className="absolute -top-2.5 right-4"
       />

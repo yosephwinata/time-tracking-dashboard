@@ -5,7 +5,7 @@ const ReportCard = ({ timeFrame, onTimeFrameClick }) => {
     <div className="h-[12.6785rem] w-full rounded-[15px] bg-dark-blue xl:row-start-1 xl:row-end-3 xl:h-full">
       <div className="flex h-2/3 items-center rounded-[15px] bg-blue pl-8 pr-9 xl:h-[68%] xl:flex-col xl:items-start xl:pt-9">
         <img
-          src="/src/assets/image-jeremy.png"
+          src="/assets/image-jeremy.png"
           alt="Profile Picture"
           className="h-16 w-16 rounded-full border-4 border-white xl:h-[4.875rem] xl:w-[4.875rem]"
         />
